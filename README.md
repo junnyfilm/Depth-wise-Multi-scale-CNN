@@ -1,6 +1,11 @@
 # Hydraulic Rock Drill Diagnosis using Deep Learning
 2022 PHM Society Data challenge 1st place winner
 
+
+![image](https://github.com/junnyfilm/Hydraulic-Rock-Drill-Diagnosis-using-Deep-Learning/assets/109502364/6ba6e0e3-ac65-4835-a656-58424cb3d0bf)
+
+
+
 ![image](https://github.com/junnyfilm/Hydraulic-Rock-Drill-Diagnosis-using-Deep-Learning/assets/109502364/45a77717-207b-468f-9ca8-4d2d17a05d1b)
 
 Method:Depth-wise-Multi-scale-CNN with Domain adptation & metric learning & Pseudo labeling
